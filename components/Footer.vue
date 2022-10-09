@@ -136,6 +136,11 @@
             <p class="mt-1">
               Kami menggunakan teknologi REST API terbaru yang lebih mudah dimengerti oleh developer ber skala kecil
             </p>
+            <div class="has-text-black mt-5">
+              Download Aplikasi Kiriminaja
+            </div>
+            <img class="mt-1" src="~assets/images/playstore.png"/>
+          </div>
           </div>
         </div>
       </div>
@@ -196,7 +201,6 @@
           </div>
         </div>
       </div>
-    </div>
   </footer>
 </template>
 

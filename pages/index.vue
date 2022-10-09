@@ -57,10 +57,6 @@
   }
 }
 
-.promo{
-backgroun-color: #AEA3CF;
-}
-
 </style>
 
 <template>
@@ -126,16 +122,8 @@ backgroun-color: #AEA3CF;
       <div class="promo py-3">
       <section>
         <b-carousel-list
-            v-model="values"
-            :data="items"
-            :arrow="arrow"
-            :arrow-hover="arrowHover"
-            :items-to-show="perList"
-            :items-to-list="increment"
-            :repeat="repeat"
-            :has-drag="drag"
-            :has-grayscale="gray"
-            :has-opacity="opacity" />
+          :data="items">
+        </b-carousel-list>
       </section>
     </div>
     <div class="title is-2 has-text-primary has-text-centered mt-6">Kirim Paket Makin Singkat</div>

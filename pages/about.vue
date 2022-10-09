@@ -14,7 +14,7 @@
 </style>
 
 <template>
-  <div class="is-relative is-block">
+  <div class="is-relative is-block py-6">
    <aboutteam></aboutteam>
   <div class="title is-2 has-text-primary has-text-centered mt-6">Kami Siap Memberikan Solusi Teknologi</div>
   <div class="subtitle is-4 has-text-black has-text-centered">Untuk kebutuhan supply chain yang mempermudah<br>ekosistem bisnis Indonesia berkembang.</div>
