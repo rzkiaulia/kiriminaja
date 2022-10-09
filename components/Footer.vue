@@ -80,19 +80,19 @@
           </div>
           <ul class="pr-6 pb-5">
             <li>
-              <n-link class="has-text-dark" to="#!">Cek Tarif Aja</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/cekaja" target="_blank">Cek Tarif Aja</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Kabar Buatmu</n-link>
+              <a n-link class="has-text-dark" href="https://kiriminaja.com/kabar" target="_blank">Kabar Buatmu</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Manajemen Order</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/praktisin" target="_blank">Manajemen Order</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Integrasi API</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/api-integration" target="_blank">Integrasi API</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Karir</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/careers" target="_blank">Karir</a>
             </li>
           </ul>
         </div>
@@ -106,16 +106,16 @@
           </div>
           <ul class="pr-6">
             <li>
-              <n-link class="has-text-dark" to="#!">Tentang Kami</n-link>
+              <n-link class="has-text-dark" to="/about">Tentang Kami</n-link>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Syarat & Ketentuan</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/syarat-ketentuan" target="_blank">Syarat & Ketentuan</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Kebijakan Privasi</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/privacy-policy" target="_blank">Kebijakan Privasi</a>
             </li>
             <li class="mt-2">
-              <n-link class="has-text-dark" to="#!">Fakta & Pertanyaan</n-link>
+              <a class="has-text-dark" href="https://kiriminaja.com/faq" target="_blank">Fakta & Pertanyaan</a>
             </li>
           </ul>
         </div>
